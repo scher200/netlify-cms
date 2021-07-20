@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.13.4](https://github.com/netlify/netlify-cms/compare/netlify-cms-backend-github@2.13.3...netlify-cms-backend-github@2.13.4) (2021-07-20)
+
+
+### Bug Fixes
+
+* add updated_at to graphql query ([#5611](https://github.com/netlify/netlify-cms/issues/5611)) ([8989550](https://github.com/netlify/netlify-cms/commit/89895508b2ccc8f07019abb6bc2d0162c0d86266))
+
+
+
+
+
+## [2.13.3](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/compare/netlify-cms-backend-github@2.13.2...netlify-cms-backend-github@2.13.3) (2021-06-01)
+
+**Note:** Version bump only for package netlify-cms-backend-github
+
+
+
+
+
+## [2.13.2](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/compare/netlify-cms-backend-github@2.13.1...netlify-cms-backend-github@2.13.2) (2021-05-31)
+
+**Note:** Version bump only for package netlify-cms-backend-github
+
+
+
+
+
+## [2.13.1](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/compare/netlify-cms-backend-github@2.13.0...netlify-cms-backend-github@2.13.1) (2021-05-19)
+
+**Note:** Version bump only for package netlify-cms-backend-github
+
+
+
+
+
+# [2.13.0](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/compare/netlify-cms-backend-github@2.12.0...netlify-cms-backend-github@2.13.0) (2021-05-04)
+
+
+### Features
+
+* added react 17 as peer dependency in packages ([#5316](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/issues/5316)) ([9e42380](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/commit/9e423805707321396eec137f5b732a5b07a0dd3f))
+
+
+
+
+
 # [2.12.0](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-backend-github/compare/netlify-cms-backend-github@2.11.9...netlify-cms-backend-github@2.12.0) (2021-04-04)
 
 
